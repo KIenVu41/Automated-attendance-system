@@ -1,0 +1,15 @@
+face_align\Kienvu\Kienvu_0001.png 554 196 922 646
+face_align\Kienvu\Kienvu_0002.png 557 180 898 624
+face_align\Kienvu\Kienvu_0003.png 555 188 899 616
+face_align\Kienvu\Kienvu_0004.png 541 171 903 619
+face_align\Kienvu\Kienvu_0005.png 527 168 877 633
+face_align\Kienvu\Kienvu_0006.png 640 170 985 617
+face_align\Kienvu\Kienvu_0007.png 545 176 898 612
+face_align\Kienvu\Kienvu_0008.png 522 201 867 628
+face_align\Kienvu\Kienvu_0009.png 575 157 940 615
+face_align\Kienvu\Kienvu_0010.png 519 169 895 626
+face_align\Kienvu\Kienvu_0011.png 544 171 902 618
+face_align\Kienvu\Kienvu_0012.png 531 169 899 620
+face_align\Kienvu\Kienvu_0013.png 573 171 911 574
+face_align\Kienvu\Kienvu_0014.png 564 160 907 580
+face_align\Kienvu\Kienvu_0015.png 566 145 915 579

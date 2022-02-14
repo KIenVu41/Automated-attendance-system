@@ -1,0 +1,18 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>help-desk-customer-care-team-icon-blue-square-button-isolated-reflected-abstract-illustration-89657179.jpg</file>
+    <file>face_detector1.jpg</file>
+    <file>analyst.jpg</file>
+    <file>attendace.jpg</file>
+    <file>backgroud.jpg</file>
+    <file>BestFacialRecognition.jpg</file>
+    <file>class.jpg</file>
+    <file>exit.jpg</file>
+    <file>facialrecognition.png</file>
+    <file>gettyimages-1022573162.jpg</file>
+    <file>images.jpg</file>
+    <file>schedule.jpg</file>
+    <file>subject.jpg</file>
+    <file>teacher.jpg</file>
+  </qresource>
+</RCC>

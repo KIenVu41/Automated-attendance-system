@@ -1,0 +1,15 @@
+face_align\PhanHai\PhanHai_0001.png 1738 707 4307 3233
+face_align\PhanHai\PhanHai_0002.png
+face_align\PhanHai\PhanHai_0003.png
+face_align\PhanHai\PhanHai_0004.png 1661 1095 4115 3361
+face_align\PhanHai\PhanHai_0005.png 1531 550 3823 2843
+face_align\PhanHai\PhanHai_0006.png 1339 427 3736 2907
+face_align\PhanHai\PhanHai_0007.png 1521 541 4266 3267
+face_align\PhanHai\PhanHai_0008.png 1405 617 4203 3138
+face_align\PhanHai\PhanHai_0009.png 4668 1974 4746 2061
+face_align\PhanHai\PhanHai_0010.png
+face_align\PhanHai\PhanHai_0011.png
+face_align\PhanHai\PhanHai_0012.png
+face_align\PhanHai\PhanHai_0013.jpg.png 1385 633 4290 3224
+face_align\PhanHai\PhanHai_0014.png
+face_align\PhanHai\PhanHai_0015.png 1638 818 4131 3235

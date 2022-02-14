@@ -1,0 +1,15 @@
+face_align\ThanhTrung\ThanhTrung_0001.png 156 392 614 939
+face_align\ThanhTrung\ThanhTrung_0002.png 158 341 620 903
+face_align\ThanhTrung\ThanhTrung_0003.png 346 431 801 976
+face_align\ThanhTrung\ThanhTrung_0004.png 217 546 599 1006
+face_align\ThanhTrung\ThanhTrung_0005.png 212 618 666 1166
+face_align\ThanhTrung\ThanhTrung_0006.png 258 566 639 1022
+face_align\ThanhTrung\ThanhTrung_0007.png 276 583 656 1035
+face_align\ThanhTrung\ThanhTrung_0008.png 324 561 701 1029
+face_align\ThanhTrung\ThanhTrung_0009.png 228 422 671 916
+face_align\ThanhTrung\ThanhTrung_0010.png 221 569 724 1173
+face_align\ThanhTrung\ThanhTrung_0011.png 316 470 814 1094
+face_align\ThanhTrung\ThanhTrung_0012.png 306 505 692 965
+face_align\ThanhTrung\ThanhTrung_0013.png 218 501 715 1098
+face_align\ThanhTrung\ThanhTrung_0014.png 99 542 570 1118
+face_align\ThanhTrung\ThanhTrung_0015.png 216 418 708 1012
